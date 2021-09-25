@@ -10,7 +10,7 @@
 7. Click on new.
 8. Give a database name as (users) hit on create button.
 9. After creating database click on import.
-10. Browse the file in directory [C:\xampp\htdocs\FoodShala\database\users.sql].
+10. Browse the file in directory [C:\xampp\htdocs\Login-System-in-PHP\database\users.sql].
 11. Open any browser and type http://localhost/Login-System-in-PHP.
 12. Now enjoy the code.:fire:
 
