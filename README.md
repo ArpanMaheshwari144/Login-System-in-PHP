@@ -1,4 +1,4 @@
-# Login-System-in-PHP
+# Login-System
 
 ## Installation
 1. Install XAMPP.
