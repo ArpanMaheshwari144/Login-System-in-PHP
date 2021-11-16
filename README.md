@@ -8,7 +8,7 @@
 5. Now go to localhost/phpmyadmin. 
 6. If you first time open phpmyadmin it will ask username and password. Username is root and Password is blank, then hit Go button.
 7. Click on new.
-8. Give a database name as (users) hit on create button.
+8. Give a database name as (users) and hit on create button.
 9. After creating database click on import.
 10. Browse the file in directory [C:\xampp\htdocs\Login-System-in-PHP\database\users.sql].
 11. Open any browser and type http://localhost/Login-System-in-PHP.
